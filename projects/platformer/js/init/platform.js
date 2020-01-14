@@ -40,7 +40,8 @@
         createPlatform(400, 500);  //longest platform
         createPlatform(200,390,0.3); 
         createPlatform(400,340,0.3);
-        createPlatform (200,600,0.6);
+        createPlatform (200,600,0.7);
+        createPlatform (610,320,0.6)
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     }
